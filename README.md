@@ -1,5 +1,20 @@
-# Online-chat
-chat (node.js + Express + jquery + socket.io) 
 
-1) npm install
-2) node index 
+# 💬🙂 Online Chat 
+
+online chat with socket.io
+
+
+## Tech Stack
+
+ Node, Express, socket
+
+
+## Demo
+
+https://onl11nechat.herokuapp.com/
+
+
+## Authors
+
+- [@Troshin](https://github.com/Creator11)
+
