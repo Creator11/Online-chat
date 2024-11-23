@@ -1,5 +1,5 @@
 
-# 💬🙂 Online Chat 
+# Online Chat 
 
 online chat with socket.io
 
